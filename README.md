@@ -7,6 +7,22 @@
 
 **最后更新于20180507**
 
+* [核心概念](https://github.com/fanly/laravel-awesome/blob/master/README.md#核心概念)
 
+* [社区](https://github.com/fanly/laravel-awesome/blob/master/README.md#社区)
 
+## 核心概念
+
+TODO
+
+## 社区
+
+**国内：**
+
+* [LaravelChina](https://laravel-china.org/)
+	 学习 Laravel，不知道这个网站，那就没法混了。
+
+**国外：**
+
+* [Laravel News](https://laravel-news.com/) The official Laravel news source
 
