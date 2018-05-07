@@ -12,6 +12,11 @@
 
 * [社区](https://github.com/fanly/laravel-awesome/blob/master/README.md#社区)
 
+## 欢迎提交经典内容
+
+欢迎提交 Pull Request, 或者 Github上面提交Issue， 贴上您觉得 Laravel  相关内容 PPT/PDF 或者网页 URL 等。
+
+
 ## 核心概念
 
 TODO
@@ -33,4 +38,15 @@ TODO
 **国外：**
 
 * [Laravel News](https://laravel-news.com/) The official Laravel news source. :star::star::star::star:
+
+## 关于我
+
+加我微信 (微信号：**yemeishu**) 为好友，你就了解我了。
+
+![](http://ow20g4tgj.bkt.clouddn.com/2018-05-07-15256949976757.jpg)
+
+如果您觉得对你有用，请我喝杯:coffee:挺不错的~
+
+![](http://ow20g4tgj.bkt.clouddn.com/2018-05-07-15256953039020.jpg)
+
 
