@@ -49,7 +49,5 @@ TODO
 
 加我微信(**yemeishu**) or 请我喝杯:coffee:~。
 
-<img src="http://ow20g4tgj.bkt.clouddn.com/2018-05-07-15256949976757.jpg" width="400">
-
-<img src="http://ow20g4tgj.bkt.clouddn.com/2018-05-07-15256953039020.jpg" width="400">
+<img src="http://ow20g4tgj.bkt.clouddn.com/2018-05-07-15256949976757.jpg" width="400"><img src="http://ow20g4tgj.bkt.clouddn.com/2018-05-07-15256953039020.jpg" width="400">
 
