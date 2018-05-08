@@ -1,4 +1,4 @@
-# Laravel 学习图谱
+# Laravel 学习图谱 [官网](https://laravel.com/)
 
 [![知识共享协议（CC协议）](https://img.shields.io/badge/License-Creative%20Commons-DC3D24.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
 [![GitHub stars](https://img.shields.io/github/stars/fanly/laravel-awesome.svg?style=flat&label=Star)](https://github.com/fanly/laravel-awesome/stargazers)
@@ -9,7 +9,7 @@
 
 * [核心概念](https://github.com/fanly/laravel-awesome/blob/master/README.md#核心概念)
 * [插件推荐](https://github.com/fanly/laravel-awesome/blob/master/README.md#插件推荐)
-
+* [图书推荐](https://github.com/fanly/laravel-awesome/blob/master/README.md#图书推荐)
 * [社区](https://github.com/fanly/laravel-awesome/blob/master/README.md#社区)
 
 ## 欢迎提交经典内容
@@ -28,6 +28,11 @@ TODO
 * [Guzzle](http://guzzle-cn.readthedocs.io/zh_CN/latest/quickstart.html) 网络请求，我推荐这个，好用。:star::star::star::star::star:
 * [Faker](https://github.com/fzaninotto/Faker?utm_source=gold_browser_extension) 用于生成假数据的 PHP 类库。:star::star::star::star::star:
 
+## 图书推荐
+
+* [Refactoring to Collections/](https://adamwathan.me/refactoring-to-collections/) Never write another loop again. :star::star::star::star::star:
+* [Laravel Collections Unraveled](https://leanpub.com/laravelcollectionsunraveled) Wondering why everyone keeps tweeting about "Amazing Laravel Collections!" Tired of reading about the function you could have used? "Laravel Collections Unraveled" is for you! Updated to cover Version 5.4. :star::star::star::star:
+
 ## 社区
 
 **国内：**
@@ -38,14 +43,13 @@ TODO
 **国外：**
 
 * [Laravel News](https://laravel-news.com/) The official Laravel news source. :star::star::star::star:
+* [laracasts](https://laracasts.com/) The best PHP and Laravel screencasts on the web. 对于企业，推荐买一个账号供技术人员学习使用，确实不错。当然，个人买有点小贵。:star::star::star::star:
 
 ## 关于我
 
-加我微信 (微信号：**yemeishu**) 为好友，你就了解我了。
+加我微信(**yemeishu**) or 请我喝杯:coffee:~。
 
 <img src="http://ow20g4tgj.bkt.clouddn.com/2018-05-07-15256949976757.jpg" width="400">
-
-如果您觉得对你有用，请我喝杯:coffee:挺不错的~
 
 <img src="http://ow20g4tgj.bkt.clouddn.com/2018-05-07-15256953039020.jpg" width="400">
 
