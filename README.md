@@ -5,11 +5,12 @@
 [![GitHub forks](https://img.shields.io/github/forks/fanly/laravel-awesome.svg?style=flat&label=Fork)](https://github.com/fanly/laravel-awesome/fork)
 [![GitHub watchers](https://img.shields.io/github/watchers/fanly/laravel-awesome.svg?style=flat&label=Watch)](https://github.com/fanly/laravel-awesome/watchers)
 
-**最后更新于20180507**
+**最后更新于20180510**
 
 * [核心概念](https://github.com/fanly/laravel-awesome/blob/master/README.md#核心概念)
 * [插件推荐](https://github.com/fanly/laravel-awesome/blob/master/README.md#插件推荐)
 * [图书推荐](https://github.com/fanly/laravel-awesome/blob/master/README.md#图书推荐)
+* [工具推荐](https://github.com/fanly/laravel-awesome/blob/master/README.md#工具推荐)
 * [开源项目](https://github.com/fanly/laravel-awesome/blob/master/README.md#开源项目)
 * [社区](https://github.com/fanly/laravel-awesome/blob/master/README.md#社区)
 
@@ -39,6 +40,12 @@ TODO
 * :100: [Refactoring to Collections/](https://adamwathan.me/refactoring-to-collections/) Never write another loop again. :star::star::star::star::star:
 * [Laravel Collections Unraveled](https://leanpub.com/laravelcollectionsunraveled) Wondering why everyone keeps tweeting about "Amazing Laravel Collections!" Tired of reading about the function you could have used? "Laravel Collections Unraveled" is for you! Updated to cover Version 5.4. :star::star::star::star:
 * [Building a Chatbot with Laravel and BotMan](https://laravel-news.com/chatbot) Learn how to build a chatbot from scratch using the framework you already know. 简短的一本书，学到的东西不少。:star::star::star:
+
+## 工具推荐
+
+* [squizlabs/PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) 每个公司都会有一套大家遵循的代码编写规范标准，这时候再辅于工具，那就完美了，所以推荐这个工具，几个主流的编辑器都支持。:star::star::star::star:
+* [phubb - PHP PubSubHubbub server](http://phubb.cweiske.de/) 自建 RSS 实时推送功能，这个工具强烈推荐。:star::star::star::star:
+* [Travis-CI](https://travis-ci.org/) 如果你是用 Github 作为代码托管平台，那使用 Travis-CI 在线持续集成服务，自动化执行单元测试，或者部署任务等。:star::star::star::star:
 
 ## 开源项目
 
