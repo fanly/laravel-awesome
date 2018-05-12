@@ -5,12 +5,13 @@
 [![GitHub forks](https://img.shields.io/github/forks/fanly/laravel-awesome.svg?style=flat&label=Fork)](https://github.com/fanly/laravel-awesome/fork)
 [![GitHub watchers](https://img.shields.io/github/watchers/fanly/laravel-awesome.svg?style=flat&label=Watch)](https://github.com/fanly/laravel-awesome/watchers)
 
-**最后更新于20180510**
+**最后更新于20180512**
 
 * [核心概念](https://github.com/fanly/laravel-awesome/blob/master/README.md#核心概念)
 * [插件推荐](https://github.com/fanly/laravel-awesome/blob/master/README.md#插件推荐)
 * [图书推荐](https://github.com/fanly/laravel-awesome/blob/master/README.md#图书推荐)
 * [工具推荐](https://github.com/fanly/laravel-awesome/blob/master/README.md#工具推荐)
+* [教程推荐](https://github.com/fanly/laravel-awesome/blob/master/README.md#教程推荐)
 * [开源项目](https://github.com/fanly/laravel-awesome/blob/master/README.md#开源项目)
 * [社区](https://github.com/fanly/laravel-awesome/blob/master/README.md#社区)
 
@@ -40,12 +41,19 @@ TODO
 * :100: [Refactoring to Collections/](https://adamwathan.me/refactoring-to-collections/) Never write another loop again. :star::star::star::star::star:
 * [Laravel Collections Unraveled](https://leanpub.com/laravelcollectionsunraveled) Wondering why everyone keeps tweeting about "Amazing Laravel Collections!" Tired of reading about the function you could have used? "Laravel Collections Unraveled" is for you! Updated to cover Version 5.4. :star::star::star::star:
 * [Building a Chatbot with Laravel and BotMan](https://laravel-news.com/chatbot) Learn how to build a chatbot from scratch using the framework you already know. 简短的一本书，学到的东西不少。:star::star::star:
+* [rollbar](https://rollbar.com/) 异常监控系统，快速引入项目，实时反馈异常情况，可惜就是需要 money。:star::star::star:
 
 ## 工具推荐
 
 * [squizlabs/PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) 每个公司都会有一套大家遵循的代码编写规范标准，这时候再辅于工具，那就完美了，所以推荐这个工具，几个主流的编辑器都支持。:star::star::star::star:
 * [phubb - PHP PubSubHubbub server](http://phubb.cweiske.de/) 自建 RSS 实时推送功能，这个工具强烈推荐。:star::star::star::star:
 * [Travis-CI](https://travis-ci.org/) 如果你是用 Github 作为代码托管平台，那使用 Travis-CI 在线持续集成服务，自动化执行单元测试，或者部署任务等。:star::star::star::star:
+* [rakyll/hey](https://github.com/rakyll/hey) 压测工具推荐一个，网友说：“用 ab 的话，有个小坑，如果测试的目标 Laravel 站点带 https，Requests per second 会永远保持在 15 左右 , 一度以为所有的优化策略都无效。。。”:star::star:
+
+## 教程推荐
+
+* [2017 版 Laravel 系列入门教程](https://github.com/johnlui/Learn-Laravel-5/) 关注 @johnlui 作者很久了，跟着他，学了不少东西，推荐初学者看看。:star::star::star::star::star:
+* [Building a Vue SPA with Laravel](https://laravel-news.com/using-vue-router-laravel) Laravel + vue 这是目前「全栈」的标配。:star::star::star::star:
 
 ## 开源项目
 
