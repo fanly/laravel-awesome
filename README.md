@@ -27,14 +27,14 @@ TODO
 ## 插件推荐
 
 * :100: [EasyWeChat](https://www.easywechat.com/) 微信开发，从未如此简单。每一个功能设计，都经过精心打磨，只为了提供更好的开发体验。在国内的 Laravel 开源插件中，这个质量 No.1 :star::star::star::star::star:
-* [barryvdh/laravel-ide-helper](https://github.com/barryvdh/laravel-ide-helper) [![GitHub stars](https://img.shields.io/github/stars/barryvdh/laravel-ide-helper.svg?style=flat&label=Star)](https://github.com/barryvdh/laravel-ide-helper/stargazers)估计这个是开发 Laravel 项目的标配工具了吧。:star::star::star::star::star:
-* [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) [![GitHub stars](https://img.shields.io/github/stars/briannesbitt/Carbon.svg?style=flat&label=Star)](https://github.com/briannesbitt/Carbon/stargazers) 时间处理器，我只认准这一家。:star::star::star::star::star:
-* [jenssegers/date](https://github.com/jenssegers/date) [![GitHub stars](https://img.shields.io/github/stars/jenssegers/date.svg?style=flat&label=Star)](https://github.com/jenssegers/date/stargazers) 日期处理工具（让 Carbon 支持多语言，中文用户的福音）:star::star::star::star:
+* [barryvdh/laravel-ide-helper](https://github.com/barryvdh/laravel-ide-helper)  估计这个是开发 Laravel 项目的标配工具了吧。[![GitHub stars](https://img.shields.io/github/stars/barryvdh/laravel-ide-helper.svg?style=flat&label=Star)](https://github.com/barryvdh/laravel-ide-helper/stargazers)
+* [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) 时间处理器，我只认准这一家。[![GitHub stars](https://img.shields.io/github/stars/briannesbitt/Carbon.svg?style=flat&label=Star)](https://github.com/briannesbitt/Carbon/stargazers)
+* [jenssegers/date](https://github.com/jenssegers/date) 日期处理工具（让 Carbon 支持多语言，中文用户的福音）[![GitHub stars](https://img.shields.io/github/stars/jenssegers/date.svg?style=flat&label=Star)](https://github.com/jenssegers/date/stargazers)
 * [laravel-admin](http://laravel-admin.org/docs/#/zh/) 是一个可以快速帮你构建后台管理的工具，它提供的页面组件和表单元素等功能，能帮助你使用很少的代码就实现功能完善的后台管理功能。美中不足的就是怎么做 test？:star::star::star::star:
 * [Guzzle](http://guzzle-cn.readthedocs.io/zh_CN/latest/quickstart.html) 网络请求，我推荐这个，好用。:star::star::star::star::star:
-* [Faker](https://github.com/fzaninotto/Faker) [![GitHub stars](https://img.shields.io/github/stars/fzaninotto/Faker.svg?style=flat&label=Star)](https://github.com/fzaninotto/Faker/stargazers) 用于生成假数据的 PHP 类库。:star::star::star::star::star:
-* [Intervention/image](https://github.com/Intervention/image) [![GitHub stars](https://img.shields.io/github/stars/Intervention/image.svg?style=flat&label=Star)](https://github.com/Intervention/image/stargazers) Intervention Image is a PHP image handling and manipulation library providing an easier and expressive way to create, edit, and compose images. The package includes ServiceProviders and Facades for easy Laravel integration. 图片处理插件，我推荐用这个 :star::star::star::star:
-* [vinkla/laravel-hashids](https://github.com/vinkla/laravel-hashids)[![GitHub stars](https://img.shields.io/github/stars/vinkla/laravel-hashids.svg?style=flat&label=Star)](https://github.com/vinkla/laravel-hashids/stargazers) Hash ID 生成器，主要是用于生成相同的位数的 id，很有用，并且可以隐藏真正的表 id 值。:star::star::star::star:
+* [Faker](https://github.com/fzaninotto/Faker) 用于生成假数据的 PHP 类库。[![GitHub stars](https://img.shields.io/github/stars/fzaninotto/Faker.svg?style=flat&label=Star)](https://github.com/fzaninotto/Faker/stargazers)
+* [Intervention/image](https://github.com/Intervention/image) Intervention Image is a PHP image handling and manipulation library providing an easier and expressive way to create, edit, and compose images. The package includes ServiceProviders and Facades for easy Laravel integration. 图片处理插件，我推荐用这个 [![GitHub stars](https://img.shields.io/github/stars/Intervention/image.svg?style=flat&label=Star)](https://github.com/Intervention/image/stargazers)
+* [vinkla/laravel-hashids](https://github.com/vinkla/laravel-hashids) Hash ID 生成器，主要是用于生成相同的位数的 id，很有用，并且可以隐藏真正的表 id 值。[![GitHub stars](https://img.shields.io/github/stars/vinkla/laravel-hashids.svg?style=flat&label=Star)](https://github.com/vinkla/laravel-hashids/stargazers)
 
 
 
@@ -47,14 +47,14 @@ TODO
 
 ## 工具推荐
 
-* [squizlabs/PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) [![GitHub stars](https://img.shields.io/github/stars/squizlabs/PHP_CodeSniffer.svg?style=flat&label=Star)](https://github.com/squizlabs/PHP_CodeSniffer/stargazers) 每个公司都会有一套大家遵循的代码编写规范标准，这时候再辅于工具，那就完美了，所以推荐这个工具，几个主流的编辑器都支持。:star::star::star::star:
+* [squizlabs/PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) 每个公司都会有一套大家遵循的代码编写规范标准，这时候再辅于工具，那就完美了，所以推荐这个工具，几个主流的编辑器都支持。 [![GitHub stars](https://img.shields.io/github/stars/squizlabs/PHP_CodeSniffer.svg?style=flat&label=Star)](https://github.com/squizlabs/PHP_CodeSniffer/stargazers)
 * [phubb - PHP PubSubHubbub server](http://phubb.cweiske.de/) 自建 RSS 实时推送功能，这个工具强烈推荐。:star::star::star::star:
 * [Travis-CI](https://travis-ci.org/) 如果你是用 Github 作为代码托管平台，那使用 Travis-CI 在线持续集成服务，自动化执行单元测试，或者部署任务等。:star::star::star::star:
-* [rakyll/hey](https://github.com/rakyll/hey) 压测工具推荐一个，网友说：“用 ab 的话，有个小坑，如果测试的目标 Laravel 站点带 https，Requests per second 会永远保持在 15 左右 , 一度以为所有的优化策略都无效。。。”:star::star:
+* [rakyll/hey](https://github.com/rakyll/hey) 压测工具推荐一个，网友说：“用 ab 的话，有个小坑，如果测试的目标 Laravel 站点带 https，Requests per second 会永远保持在 15 左右 , 一度以为所有的优化策略都无效。。。”[![GitHub stars](https://img.shields.io/github/stars/rakyll/hey.svg?style=flat&label=Star)](https://github.com/rakyll/hey)
 
 ## 教程推荐
 
-* [2017 版 Laravel 系列入门教程](https://github.com/johnlui/Learn-Laravel-5/) 关注 @johnlui 作者很久了，跟着他，学了不少东西，推荐初学者看看。:star::star::star::star::star:
+* [2017 版 Laravel 系列入门教程](https://github.com/johnlui/Learn-Laravel-5/) 关注 @johnlui 作者很久了，跟着他，学了不少东西，推荐初学者看看。[![GitHub stars](https://img.shields.io/github/stars/ohnlui/Learn-Laravel-5.svg?style=flat&label=Star)](https://github.com/ohnlui/Learn-Laravel-5)
 * [Building a Vue SPA with Laravel](https://laravel-news.com/using-vue-router-laravel) Laravel + vue 这是目前「全栈」的标配。:star::star::star::star:
 
 ## 开源项目
