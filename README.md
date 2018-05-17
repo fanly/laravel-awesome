@@ -28,6 +28,7 @@ TODO
 
 * :100: [EasyWeChat](https://www.easywechat.com/) 微信开发，从未如此简单。每一个功能设计，都经过精心打磨，只为了提供更好的开发体验。在国内的 Laravel 开源插件中，这个质量 No.1 :star::star::star::star::star:
 * [barryvdh/laravel-ide-helper](https://github.com/barryvdh/laravel-ide-helper)  估计这个是开发 Laravel 项目的标配工具了吧。[![GitHub stars](https://img.shields.io/github/stars/barryvdh/laravel-ide-helper.svg?style=flat&label=Star)](https://github.com/barryvdh/laravel-ide-helper/stargazers)
+* [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) 对 Laravel 开发者而言，Barry vd. Heuvel 发布的 Laravel Debugbar 是值得拥有的调试和追溯工具。它功能强大，安装便易。可以将应用程序中所发生的事情一览无余：经过的路由和控制器，数据库查询和执行时间，数据展示，异常，查看执行内容和执行过程时间线等等。尝试过使用这个包后，你将在之后的 Laravel 应用开发中对它爱不释手。[![GitHub stars](https://img.shields.io/github/stars/barryvdh/laravel-debugbar.svg?style=flat&label=Star)](https://github.com/barryvdh/laravel-debugbar/stargazers)
 * [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) 时间处理器，我只认准这一家。[![GitHub stars](https://img.shields.io/github/stars/briannesbitt/Carbon.svg?style=flat&label=Star)](https://github.com/briannesbitt/Carbon/stargazers)
 * [jenssegers/date](https://github.com/jenssegers/date) 日期处理工具（让 Carbon 支持多语言，中文用户的福音）[![GitHub stars](https://img.shields.io/github/stars/jenssegers/date.svg?style=flat&label=Star)](https://github.com/jenssegers/date/stargazers)
 * [laravel-admin](http://laravel-admin.org/docs/#/zh/) 是一个可以快速帮你构建后台管理的工具，它提供的页面组件和表单元素等功能，能帮助你使用很少的代码就实现功能完善的后台管理功能。美中不足的就是怎么做 test？:star::star::star::star:
@@ -51,6 +52,9 @@ TODO
 * [phubb - PHP PubSubHubbub server](http://phubb.cweiske.de/) 自建 RSS 实时推送功能，这个工具强烈推荐。:star::star::star::star:
 * [Travis-CI](https://travis-ci.org/) 如果你是用 Github 作为代码托管平台，那使用 Travis-CI 在线持续集成服务，自动化执行单元测试，或者部署任务等。:star::star::star::star:
 * [rakyll/hey](https://github.com/rakyll/hey) 压测工具推荐一个，网友说：“用 ab 的话，有个小坑，如果测试的目标 Laravel 站点带 https，Requests per second 会永远保持在 15 左右 , 一度以为所有的优化策略都无效。。。”[![GitHub stars](https://img.shields.io/github/stars/rakyll/hey.svg?style=flat&label=Star)](https://github.com/rakyll/hey)
+* [PHP Coding Standards Fixer](http://cs.sensiolabs.org/) 代码自动格式化工具，推荐试试这个工具。:star::star::star::star:
+* [swooletw/laravel-swoole](https://github.com/swooletw/laravel-swoole) 使用 Swoole 来加速你的 Laravel 应用 :star::star::star::star:
+* [Laragon](https://forum.laragon.org/topic/473/download-laragon)推荐的 Windows Laravel 集成环境，Windows 的朋友可以试试。:star::star::star:
 
 ## 教程推荐
 
