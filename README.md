@@ -27,6 +27,7 @@ TODO
 ## 插件推荐
 
 * :100: [EasyWeChat](https://www.easywechat.com/) 微信开发，从未如此简单。每一个功能设计，都经过精心打磨，只为了提供更好的开发体验。在国内的 Laravel 开源插件中，这个质量 No.1 :star::star::star::star::star:
+* :100: [nikic/FastRoute](https://github.com/nikic/FastRoute) This library provides a fast implementation of a regular expression based router. Lumen 御用 Router。[![GitHub stars](https://img.shields.io/github/stars/nikic/FastRoute.svg?style=flat&label=Star)](https://github.com/nikic/FastRoute/stargazers)
 * [barryvdh/laravel-ide-helper](https://github.com/barryvdh/laravel-ide-helper)  估计这个是开发 Laravel 项目的标配工具了吧。[![GitHub stars](https://img.shields.io/github/stars/barryvdh/laravel-ide-helper.svg?style=flat&label=Star)](https://github.com/barryvdh/laravel-ide-helper/stargazers)
 * [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) 对 Laravel 开发者而言，Barry vd. Heuvel 发布的 Laravel Debugbar 是值得拥有的调试和追溯工具。它功能强大，安装便易。可以将应用程序中所发生的事情一览无余：经过的路由和控制器，数据库查询和执行时间，数据展示，异常，查看执行内容和执行过程时间线等等。尝试过使用这个包后，你将在之后的 Laravel 应用开发中对它爱不释手。[![GitHub stars](https://img.shields.io/github/stars/barryvdh/laravel-debugbar.svg?style=flat&label=Star)](https://github.com/barryvdh/laravel-debugbar/stargazers)
 * [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) 时间处理器，我只认准这一家。[![GitHub stars](https://img.shields.io/github/stars/briannesbitt/Carbon.svg?style=flat&label=Star)](https://github.com/briannesbitt/Carbon/stargazers)
@@ -58,7 +59,7 @@ TODO
 
 ## 教程推荐
 
-* [2017 版 Laravel 系列入门教程](https://github.com/johnlui/Learn-Laravel-5/) 关注 @johnlui 作者很久了，跟着他，学了不少东西，推荐初学者看看。[![GitHub stars](https://img.shields.io/github/stars/ohnlui/Learn-Laravel-5.svg?style=flat&label=Star)](https://github.com/ohnlui/Learn-Laravel-5)
+* [2017 版 Laravel 系列入门教程](https://github.com/johnlui/Learn-Laravel-5/) 关注 @johnlui 作者很久了，跟着他，学了不少东西，推荐初学者看看。:star::star::star::star:
 * [Building a Vue SPA with Laravel](https://laravel-news.com/using-vue-router-laravel) Laravel + vue 这是目前「全栈」的标配。:star::star::star::star:
 
 ## 开源项目
