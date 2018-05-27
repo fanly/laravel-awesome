@@ -22,7 +22,7 @@
 
 ## 核心概念
 
-TODO
+* [看 Lumen 源代码解析 Request 到 Response 过程](https://mp.weixin.qq.com/s/lWuVBW4lMOeQHs7FD-fDDQ) :star::star::star::star:
 
 ## 插件推荐
 
