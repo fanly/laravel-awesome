@@ -5,7 +5,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/fanly/laravel-awesome.svg?style=flat&label=Fork)](https://github.com/fanly/laravel-awesome/fork)
 [![GitHub watchers](https://img.shields.io/github/watchers/fanly/laravel-awesome.svg?style=flat&label=Watch)](https://github.com/fanly/laravel-awesome/watchers)
 
-**最后更新于20180517**
+**最后更新于20180527**
 
 * [核心概念](https://github.com/fanly/laravel-awesome/blob/master/README.md#核心概念)
 * [插件推荐](https://github.com/fanly/laravel-awesome/blob/master/README.md#插件推荐)
@@ -37,6 +37,8 @@ TODO
 * [Faker](https://github.com/fzaninotto/Faker) 用于生成假数据的 PHP 类库。[![GitHub stars](https://img.shields.io/github/stars/fzaninotto/Faker.svg?style=flat&label=Star)](https://github.com/fzaninotto/Faker/stargazers)
 * [Intervention/image](https://github.com/Intervention/image) Intervention Image is a PHP image handling and manipulation library providing an easier and expressive way to create, edit, and compose images. The package includes ServiceProviders and Facades for easy Laravel integration. 图片处理插件，我推荐用这个 [![GitHub stars](https://img.shields.io/github/stars/Intervention/image.svg?style=flat&label=Star)](https://github.com/Intervention/image/stargazers)
 * [vinkla/laravel-hashids](https://github.com/vinkla/laravel-hashids) Hash ID 生成器，主要是用于生成相同的位数的 id，很有用，并且可以隐藏真正的表 id 值。[![GitHub stars](https://img.shields.io/github/stars/vinkla/laravel-hashids.svg?style=flat&label=Star)](https://github.com/vinkla/laravel-hashids/stargazers)
+* [webpatser/laravel-uuid](https://github.com/webpatser/laravel-uuid) Laravel package to generate and to validate a UUID according to the RFC 4122 standard. [![GitHub stars](https://img.shields.io/github/stars/webpatser/laravel-uuid.svg?style=flat&label=Star)](https://github.com/webpatser/laravel-uuid/stargazers)
+* 9️⃣0️⃣ [tightenco/collect](https://github.com/tightenco/collect) Import Laravel's Collections into non-Laravel packages easily, without needing to require the entire Illuminate\Support package. 刚好推荐的书《Refactoring to Collections》见：[图书推荐](https://github.com/fanly/laravel-awesome/blob/master/README.md#图书推荐)
 
 
 
