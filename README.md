@@ -5,7 +5,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/fanly/laravel-awesome.svg?style=flat&label=Fork)](https://github.com/fanly/laravel-awesome/fork)
 [![GitHub watchers](https://img.shields.io/github/watchers/fanly/laravel-awesome.svg?style=flat&label=Watch)](https://github.com/fanly/laravel-awesome/watchers)
 
-**最后更新于20180527**
+**最后更新于20180529**
 
 * [核心概念](https://github.com/fanly/laravel-awesome/blob/master/README.md#核心概念)
 * [插件推荐](https://github.com/fanly/laravel-awesome/blob/master/README.md#插件推荐)
@@ -17,7 +17,7 @@
 
 ## 欢迎提交经典内容
 
-欢迎提交 Pull Request, 或者 Github上面提交Issue， 贴上您觉得 Laravel  相关内容 PPT/PDF 或者网页 URL 等。
+欢迎提交 Pull Request, 或者 Github上面提交 Issue， 贴上您觉得 Laravel  相关内容 PPT/PDF 或者网页 URL 等。
 
 
 ## 核心概念
@@ -39,6 +39,7 @@
 * [vinkla/laravel-hashids](https://github.com/vinkla/laravel-hashids) Hash ID 生成器，主要是用于生成相同的位数的 id，很有用，并且可以隐藏真正的表 id 值。[![GitHub stars](https://img.shields.io/github/stars/vinkla/laravel-hashids.svg?style=flat&label=Star)](https://github.com/vinkla/laravel-hashids/stargazers)
 * [webpatser/laravel-uuid](https://github.com/webpatser/laravel-uuid) Laravel package to generate and to validate a UUID according to the RFC 4122 standard. [![GitHub stars](https://img.shields.io/github/stars/webpatser/laravel-uuid.svg?style=flat&label=Star)](https://github.com/webpatser/laravel-uuid/stargazers)
 * 9️⃣0️⃣ [tightenco/collect](https://github.com/tightenco/collect) Import Laravel's Collections into non-Laravel packages easily, without needing to require the entire Illuminate\Support package. 刚好推荐的书《Refactoring to Collections》见：[图书推荐](https://github.com/fanly/laravel-awesome/blob/master/README.md#图书推荐)
+* [spatie/laravel-activitylog](https://github.com/spatie/laravel-activitylog) 很多系统想记录用户的所有活跃记录。这个包可以很方便的记录你的用户何时何地的创建、更新实体的记录。:star::star::star:
 
 
 
@@ -51,7 +52,7 @@
 
 ## 工具推荐
 
-* [squizlabs/PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) 每个公司都会有一套大家遵循的代码编写规范标准，这时候再辅于工具，那就完美了，所以推荐这个工具，几个主流的编辑器都支持。 [![GitHub stars](https://img.shields.io/github/stars/squizlabs/PHP_CodeSniffer.svg?style=flat&label=Star)](https://github.com/squizlabs/PHP_CodeSniffer/stargazers)
+* :100: [squizlabs/PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) 每个公司都会有一套大家遵循的代码编写规范标准，这时候再辅于工具，那就完美了，所以推荐这个工具，几个主流的编辑器都支持。 [![GitHub stars](https://img.shields.io/github/stars/squizlabs/PHP_CodeSniffer.svg?style=flat&label=Star)](https://github.com/squizlabs/PHP_CodeSniffer/stargazers)
 * [phubb - PHP PubSubHubbub server](http://phubb.cweiske.de/) 自建 RSS 实时推送功能，这个工具强烈推荐。:star::star::star::star:
 * [Travis-CI](https://travis-ci.org/) 如果你是用 Github 作为代码托管平台，那使用 Travis-CI 在线持续集成服务，自动化执行单元测试，或者部署任务等。:star::star::star::star:
 * [rakyll/hey](https://github.com/rakyll/hey) 压测工具推荐一个，网友说：“用 ab 的话，有个小坑，如果测试的目标 Laravel 站点带 https，Requests per second 会永远保持在 15 左右 , 一度以为所有的优化策略都无效。。。”[![GitHub stars](https://img.shields.io/github/stars/rakyll/hey.svg?style=flat&label=Star)](https://github.com/rakyll/hey)
