@@ -5,7 +5,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/fanly/laravel-awesome.svg?style=flat&label=Fork)](https://github.com/fanly/laravel-awesome/fork)
 [![GitHub watchers](https://img.shields.io/github/watchers/fanly/laravel-awesome.svg?style=flat&label=Watch)](https://github.com/fanly/laravel-awesome/watchers)
 
-**最后更新于20180529**
+**最后更新于20180606**
 
 * [核心概念](https://github.com/fanly/laravel-awesome/blob/master/README.md#核心概念)
 * [插件推荐](https://github.com/fanly/laravel-awesome/blob/master/README.md#插件推荐)
@@ -68,6 +68,7 @@
 ## 开源项目
 
 * [octobercms/october](http://octobercms.com/) Free, open-source, self-hosted CMS platform based on the Laravel PHP Framework. 值得一用，而且作者来头不小哦。:star::star::star::star::star:
+* [jcc/blog](https://github.com/jcc/blog/) 🌟 这是一个由 Laravel 5.* 和 Vuejs 2.* 建立的开源博客系统。「PJ Blog is an open source blog built with Laravel and Vue.js.」 [![GitHub stars](https://img.shields.io/github/stars/jcc/blog.svg?style=flat&label=Star)](https://github.com/jcc/blog/stargazers) 
 
 
 ## 社区
