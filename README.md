@@ -5,13 +5,14 @@
 [![GitHub forks](https://img.shields.io/github/forks/fanly/laravel-awesome.svg?style=flat&label=Fork)](https://github.com/fanly/laravel-awesome/fork)
 [![GitHub watchers](https://img.shields.io/github/watchers/fanly/laravel-awesome.svg?style=flat&label=Watch)](https://github.com/fanly/laravel-awesome/watchers)
 
-**最后更新于20180606**
+**最后更新于20180610**
 
 * [核心概念](https://github.com/fanly/laravel-awesome/blob/master/README.md#核心概念)
 * [插件推荐](https://github.com/fanly/laravel-awesome/blob/master/README.md#插件推荐)
 * [图书推荐](https://github.com/fanly/laravel-awesome/blob/master/README.md#图书推荐)
 * [工具推荐](https://github.com/fanly/laravel-awesome/blob/master/README.md#工具推荐)
 * [教程推荐](https://github.com/fanly/laravel-awesome/blob/master/README.md#教程推荐)
+* [最佳实践](https://github.com/fanly/laravel-awesome/blob/master/README.md#最佳实践)
 * [开源项目](https://github.com/fanly/laravel-awesome/blob/master/README.md#开源项目)
 * [社区](https://github.com/fanly/laravel-awesome/blob/master/README.md#社区)
 
@@ -42,7 +43,6 @@
 * [spatie/laravel-activitylog](https://github.com/spatie/laravel-activitylog) 很多系统想记录用户的所有活跃记录。这个包可以很方便的记录你的用户何时何地的创建、更新实体的记录。:star::star::star:
 
 
-
 ## 图书推荐
 
 * :100: [Refactoring to Collections/](https://adamwathan.me/refactoring-to-collections/) Never write another loop again. :star::star::star::star::star:
@@ -64,6 +64,11 @@
 
 * [2017 版 Laravel 系列入门教程](https://github.com/johnlui/Learn-Laravel-5/) 关注 @johnlui 作者很久了，跟着他，学了不少东西，推荐初学者看看。:star::star::star::star:
 * [Building a Vue SPA with Laravel](https://laravel-news.com/using-vue-router-laravel) Laravel + vue 这是目前「全栈」的标配。:star::star::star::star:
+
+## 最佳实践
+
+* [alexeymezenin/laravel-best-practices](https://github.com/alexeymezenin/laravel-best-practices). It's not a Laravel adaptation of SOLID principles, patterns etc. Here you'll find the best practices which are usually ignored in real life Laravel projects. [![GitHub stars](https://img.shields.io/github/stars/alexeymezenin/laravel-best-practices.svg?style=flat&label=Star)](https://github.com/alexeymezenin/laravel-best-practices/stargazers)
+* 「翻译版看这个」[Laravel 的十八个最佳实践](https://laravel-china.org/articles/12762/eighteen-best-practices-of-laravel)
 
 ## 开源项目
 
