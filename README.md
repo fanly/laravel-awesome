@@ -5,7 +5,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/fanly/laravel-awesome.svg?style=flat&label=Fork)](https://github.com/fanly/laravel-awesome/fork)
 [![GitHub watchers](https://img.shields.io/github/watchers/fanly/laravel-awesome.svg?style=flat&label=Watch)](https://github.com/fanly/laravel-awesome/watchers)
 
-**最后更新于20180610**
+**最后更新于20180612**
 
 * [核心概念](https://github.com/fanly/laravel-awesome/blob/master/README.md#核心概念)
 * [插件推荐](https://github.com/fanly/laravel-awesome/blob/master/README.md#插件推荐)
@@ -41,6 +41,8 @@
 * [webpatser/laravel-uuid](https://github.com/webpatser/laravel-uuid) Laravel package to generate and to validate a UUID according to the RFC 4122 standard. [![GitHub stars](https://img.shields.io/github/stars/webpatser/laravel-uuid.svg?style=flat&label=Star)](https://github.com/webpatser/laravel-uuid/stargazers)
 * 9️⃣0️⃣ [tightenco/collect](https://github.com/tightenco/collect) Import Laravel's Collections into non-Laravel packages easily, without needing to require the entire Illuminate\Support package. 刚好推荐的书《Refactoring to Collections》见：[图书推荐](https://github.com/fanly/laravel-awesome/blob/master/README.md#图书推荐)
 * [spatie/laravel-activitylog](https://github.com/spatie/laravel-activitylog) 很多系统想记录用户的所有活跃记录。这个包可以很方便的记录你的用户何时何地的创建、更新实体的记录。:star::star::star:
+* [medz/id-card-of-china](https://github.com/medz/id-card-of-china) 一个基于「公民身份号码」规则获取身份证号码中包含的基础信息组件（PHP）
+* [ofcold/identity-card](https://github.com/ofcold/identity-card) A simple proof of identity card of the people's Republic of China. 其实这两个方法哪个好，哪个不好，没具体研究，但分享这两个的理由是：对国内独有的身份证验证做开发，是一件有意思的事情。
 
 
 ## 图书推荐
