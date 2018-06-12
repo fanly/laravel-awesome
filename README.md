@@ -24,7 +24,7 @@
 ## 核心概念
 
 * [看 Lumen 源代码解析 Request 到 Response 过程](https://mp.weixin.qq.com/s/lWuVBW4lMOeQHs7FD-fDDQ) :star::star::star::star:
-* [Laravel 容器学习](https://https://www.insp.top/article/learn-laravel-container):star::star::star::star::star:
+* [Laravel 服务容器介绍](https://https://www.insp.top/article/learn-laravel-container):star::star::star::star::star:
 
 ## 插件推荐
 
