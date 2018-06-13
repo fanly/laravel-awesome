@@ -24,6 +24,7 @@
 ## 核心概念
 
 * [看 Lumen 源代码解析 Request 到 Response 过程](https://mp.weixin.qq.com/s/lWuVBW4lMOeQHs7FD-fDDQ) :star::star::star::star:
+* [Laravel 服务容器介绍](https://https://www.insp.top/article/learn-laravel-container):star::star::star::star::star:
 
 ## 插件推荐
 
@@ -84,7 +85,10 @@
 
 * :100: [LaravelChina](https://laravel-china.org/)
 	 学习 Laravel，不知道这个网站，那就没法混了。:star::star::star::star::star:
+* [Laravel 学院](http://laravelacademy.org) 上面不仅有各版本文档，还有很多不错的文章，和开源项目值得学习
+      
 
+    
 **国外：**
 
 * [Laravel News](https://laravel-news.com/) The official Laravel news source. :star::star::star::star:
