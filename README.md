@@ -23,8 +23,8 @@
 
 ## 核心概念
 
+* [Laravel 服务容器介绍](https://www.insp.top/article/learn-laravel-container)，虽然文章有点老，但老而弥坚，从浅入深的分析和讲解，推荐看看 :star::star::star::star::star:
 * [看 Lumen 源代码解析 Request 到 Response 过程](https://mp.weixin.qq.com/s/lWuVBW4lMOeQHs7FD-fDDQ) :star::star::star::star:
-* [Laravel 服务容器介绍](https://https://www.insp.top/article/learn-laravel-container):star::star::star::star::star:
 
 ## 插件推荐
 
