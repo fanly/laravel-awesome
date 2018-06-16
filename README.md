@@ -5,7 +5,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/fanly/laravel-awesome.svg?style=flat&label=Fork)](https://github.com/fanly/laravel-awesome/fork)
 [![GitHub watchers](https://img.shields.io/github/watchers/fanly/laravel-awesome.svg?style=flat&label=Watch)](https://github.com/fanly/laravel-awesome/watchers)
 
-**最后更新于20180612**
+**最后更新于20180616**
 
 * [核心概念](https://github.com/fanly/laravel-awesome/blob/master/README.md#核心概念)
 * [插件推荐](https://github.com/fanly/laravel-awesome/blob/master/README.md#插件推荐)
@@ -72,6 +72,7 @@
 
 * [alexeymezenin/laravel-best-practices](https://github.com/alexeymezenin/laravel-best-practices). It's not a Laravel adaptation of SOLID principles, patterns etc. Here you'll find the best practices which are usually ignored in real life Laravel projects. [![GitHub stars](https://img.shields.io/github/stars/alexeymezenin/laravel-best-practices.svg?style=flat&label=Star)](https://github.com/alexeymezenin/laravel-best-practices/stargazers)
 * 「翻译版看这个」[Laravel 的十八个最佳实践](https://laravel-china.org/articles/12762/eighteen-best-practices-of-laravel)
+* [getsentry/onpremise](https://github.com/getsentry/onpremise) Official bootstrap for running your own Sentry with Docker. 具体使用可以查看这篇文章 [利用 entry/onpremise 搭建一个 Sentry 异常汇总工具](https://mp.weixin.qq.com/s/wxVHXlloh8SSf5v8I7stJg) [![GitHub stars](https://img.shields.io/github/stars/getsentry/onpremise.svg?style=flat&label=Star)](https://github.com/getsentry/onpremise/stargazers)
 
 ## 开源项目
 
