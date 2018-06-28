@@ -5,7 +5,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/fanly/laravel-awesome.svg?style=flat&label=Fork)](https://github.com/fanly/laravel-awesome/fork)
 [![GitHub watchers](https://img.shields.io/github/watchers/fanly/laravel-awesome.svg?style=flat&label=Watch)](https://github.com/fanly/laravel-awesome/watchers)
 
-**最后更新于20180616**
+**最后更新于20180628**
 
 * [核心概念](https://github.com/fanly/laravel-awesome/blob/master/README.md#核心概念)
 * [插件推荐](https://github.com/fanly/laravel-awesome/blob/master/README.md#插件推荐)
@@ -62,6 +62,7 @@
 * [PHP Coding Standards Fixer](http://cs.sensiolabs.org/) 代码自动格式化工具，推荐试试这个工具。:star::star::star::star:
 * [swooletw/laravel-swoole](https://github.com/swooletw/laravel-swoole) 使用 Swoole 来加速你的 Laravel 应用 :star::star::star::star:
 * [Laragon](https://forum.laragon.org/topic/473/download-laragon)推荐的 Windows Laravel 集成环境，Windows 的朋友可以试试。:star::star::star:
+* [consul](https://www.consul.io/) Service Mesh Made Easy. Consul is a distributed service mesh to connect, secure, and configure services across any runtime platform and public or private cloud. 用 Consul 管理 Laravel 项目配置是个不错的选择。:star::star::star:
 
 ## 教程推荐
 
