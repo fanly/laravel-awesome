@@ -82,6 +82,7 @@
 * [octobercms/october](http://octobercms.com/) Free, open-source, self-hosted CMS platform based on the Laravel PHP Framework. 值得一用，而且作者来头不小哦。:star::star::star::star::star:
 * [jcc/blog](https://github.com/jcc/blog/) 🌟 这是一个由 Laravel 5.* 和 Vuejs 2.* 建立的开源博客系统。「PJ Blog is an open source blog built with Laravel and Vue.js.」 [![GitHub stars](https://img.shields.io/github/stars/jcc/blog.svg?style=flat&label=Star)](https://github.com/jcc/blog/stargazers)
 * [caoym/phpboot](https://github.com/caoym/phpboot) 是为快速开发 微服务 / RESTful API 设计的PHP 框架。它可以帮助开发者更聚焦在业务本身, 而将原来开发中不得不做, 但又重复枯燥的事情丢给框架, 比如编写接口文档、参数校验和远程调用代码等。本人也再考虑是否做一款 PHP 框架，这个值得使用和参考。[中文说明](http://phpboot.org/zh/latest/)。[![GitHub stars](https://img.shields.io/github/stars/caoym/phpboot.svg?style=flat&label=Star)](https://github.com/caoym/phpboot/stargazers)
+* [leocavalcante/siler](https://github.com/leocavalcante/siler) Siler is a PHP library powered with high-level abstractions to work with GraphQL. [使用文档可以看这里](https://siler.leocavalcante.com/) [![GitHub stars](https://img.shields.io/github/stars/leocavalcante/siler.svg?style=flat&label=Star)](https://github.com/leocavalcante/siler/stargazers)
 
 
 ## 社区
