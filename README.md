@@ -5,7 +5,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/fanly/laravel-awesome.svg?style=flat&label=Fork)](https://github.com/fanly/laravel-awesome/fork)
 [![GitHub watchers](https://img.shields.io/github/watchers/fanly/laravel-awesome.svg?style=flat&label=Watch)](https://github.com/fanly/laravel-awesome/watchers)
 
-**最后更新于20180711**
+**最后更新于20180721**
 
 * [核心概念](https://github.com/fanly/laravel-awesome/blob/master/README.md#核心概念)
 * [插件推荐](https://github.com/fanly/laravel-awesome/blob/master/README.md#插件推荐)
@@ -27,7 +27,7 @@
 * [看 Lumen 源代码解析 Request 到 Response 过程](https://mp.weixin.qq.com/s/lWuVBW4lMOeQHs7FD-fDDQ) :star::star::star::star:
 
 ## 插件推荐
-
+* :100: [laradock/laradock](https://github.com/laradock/laradock) 利用 Docker 搭建开发环境，已经成为开发者必备技能了，「laradock」是首选，所以 Laravel 开发者，不知道这个，好像说不过去了。[![GitHub stars](https://img.shields.io/github/stars/laradock/laradock.svg?style=flat&label=Star)](https://github.com/laradock/laradock/stargazers)
 * :100: [EasyWeChat](https://www.easywechat.com/) 微信开发，从未如此简单。每一个功能设计，都经过精心打磨，只为了提供更好的开发体验。在国内的 Laravel 开源插件中，这个质量 No.1 :star::star::star::star::star:
 * :100: [nikic/FastRoute](https://github.com/nikic/FastRoute) This library provides a fast implementation of a regular expression based router. Lumen 御用 Router。[![GitHub stars](https://img.shields.io/github/stars/nikic/FastRoute.svg?style=flat&label=Star)](https://github.com/nikic/FastRoute/stargazers)
 * [barryvdh/laravel-ide-helper](https://github.com/barryvdh/laravel-ide-helper)  估计这个是开发 Laravel 项目的标配工具了吧。[![GitHub stars](https://img.shields.io/github/stars/barryvdh/laravel-ide-helper.svg?style=flat&label=Star)](https://github.com/barryvdh/laravel-ide-helper/stargazers)
