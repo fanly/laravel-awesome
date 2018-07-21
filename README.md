@@ -27,7 +27,7 @@
 * [看 Lumen 源代码解析 Request 到 Response 过程](https://mp.weixin.qq.com/s/lWuVBW4lMOeQHs7FD-fDDQ) :star::star::star::star:
 
 ## 插件推荐
-* :100: [laradock/laradock](https://github.com/laradock/laradock) 利用 Docker 搭建开发环境，已经成为开发者必备技能了，「laradock」是首选，所以 Laravel 开发者，不知道这个，好像说不过去了。[![GitHub stars](https://img.shields.io/github/stars/laradock/laradock.svg?style=flat&label=Star)](https://github.com/laradock/laradock/stargazers)
+
 * :100: [EasyWeChat](https://www.easywechat.com/) 微信开发，从未如此简单。每一个功能设计，都经过精心打磨，只为了提供更好的开发体验。在国内的 Laravel 开源插件中，这个质量 No.1 :star::star::star::star::star:
 * :100: [nikic/FastRoute](https://github.com/nikic/FastRoute) This library provides a fast implementation of a regular expression based router. Lumen 御用 Router。[![GitHub stars](https://img.shields.io/github/stars/nikic/FastRoute.svg?style=flat&label=Star)](https://github.com/nikic/FastRoute/stargazers)
 * [barryvdh/laravel-ide-helper](https://github.com/barryvdh/laravel-ide-helper)  估计这个是开发 Laravel 项目的标配工具了吧。[![GitHub stars](https://img.shields.io/github/stars/barryvdh/laravel-ide-helper.svg?style=flat&label=Star)](https://github.com/barryvdh/laravel-ide-helper/stargazers)
@@ -56,6 +56,7 @@
 
 ## 工具推荐
 
+* :100: [laradock/laradock](https://github.com/laradock/laradock) 利用 Docker 搭建开发环境，已经成为开发者必备技能了，「laradock」是首选，所以 Laravel 开发者，不知道这个，好像说不过去了。[![GitHub stars](https://img.shields.io/github/stars/laradock/laradock.svg?style=flat&label=Star)](https://github.com/laradock/laradock/stargazers)
 * :100: [squizlabs/PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) 每个公司都会有一套大家遵循的代码编写规范标准，这时候再辅于工具，那就完美了，所以推荐这个工具，几个主流的编辑器都支持。 [![GitHub stars](https://img.shields.io/github/stars/squizlabs/PHP_CodeSniffer.svg?style=flat&label=Star)](https://github.com/squizlabs/PHP_CodeSniffer/stargazers)
 * [phubb - PHP PubSubHubbub server](http://phubb.cweiske.de/) 自建 RSS 实时推送功能，这个工具强烈推荐。:star::star::star::star:
 * [Travis-CI](https://travis-ci.org/) 如果你是用 Github 作为代码托管平台，那使用 Travis-CI 在线持续集成服务，自动化执行单元测试，或者部署任务等。:star::star::star::star:
