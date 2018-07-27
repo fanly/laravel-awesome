@@ -66,6 +66,8 @@
 * [Laragon](https://forum.laragon.org/topic/473/download-laragon)推荐的 Windows Laravel 集成环境，Windows 的朋友可以试试。:star::star::star:
 * [Consul](https://www.consul.io/) Service Mesh Made Easy. Consul is a distributed service mesh to connect, secure, and configure services across any runtime platform and public or private cloud. 用 Consul 管理 Laravel 项目配置是个不错的选择。:star::star::star:
 * [A modern backup solution for Laravel apps](https://github.com/spatie/laravel-backup) This Laravel package creates a backup of your application. The backup is a zipfile that contains all files in the directories you specify along with a dump of your database. The backup can be stored on any of the filesystems you have configured in Laravel 5. [![GitHub stars](https://img.shields.io/github/stars/spatie/laravel-backup.svg?style=flat&label=Star)](https://github.com/spatie/laravel-backup/stargazers)
+* [getsentry/onpremise](https://github.com/getsentry/onpremise) Official bootstrap for running your own Sentry with Docker. 具体使用可以查看这篇文章 [利用 entry/onpremise 搭建一个 Sentry 异常汇总工具](https://mp.weixin.qq.com/s/wxVHXlloh8SSf5v8I7stJg) [![GitHub stars](https://img.shields.io/github/stars/getsentry/onpremise.svg?style=flat&label=Star)](https://github.com/getsentry/onpremise/stargazers)
+* [Neilpang/acme.sh](https://github.com/Neilpang/acme.sh) 使用了很多提供商的免费证书，也尝试使用其他工具一键生成，但感觉不如这个来的好用，所以推荐给大家。[![GitHub stars](https://img.shields.io/github/stars/Neilpang/acme.sh.svg?style=flat&label=Star)](https://github.com/Neilpang/acme.sh/stargazers)
 
 ## 教程推荐
 
@@ -76,7 +78,6 @@
 
 * [alexeymezenin/laravel-best-practices](https://github.com/alexeymezenin/laravel-best-practices). It's not a Laravel adaptation of SOLID principles, patterns etc. Here you'll find the best practices which are usually ignored in real life Laravel projects. [![GitHub stars](https://img.shields.io/github/stars/alexeymezenin/laravel-best-practices.svg?style=flat&label=Star)](https://github.com/alexeymezenin/laravel-best-practices/stargazers)
 * 「翻译版看这个」[Laravel 的十八个最佳实践](https://laravel-china.org/articles/12762/eighteen-best-practices-of-laravel)
-* [getsentry/onpremise](https://github.com/getsentry/onpremise) Official bootstrap for running your own Sentry with Docker. 具体使用可以查看这篇文章 [利用 entry/onpremise 搭建一个 Sentry 异常汇总工具](https://mp.weixin.qq.com/s/wxVHXlloh8SSf5v8I7stJg) [![GitHub stars](https://img.shields.io/github/stars/getsentry/onpremise.svg?style=flat&label=Star)](https://github.com/getsentry/onpremise/stargazers)
 
 ## 开源项目
 
