@@ -45,6 +45,7 @@
 * [medz/id-card-of-china](https://github.com/medz/id-card-of-china) 一个基于「公民身份号码」规则获取身份证号码中包含的基础信息组件（PHP）
 * [ofcold/identity-card](https://github.com/ofcold/identity-card) A simple proof of identity card of the people's Republic of China. 其实这两个方法哪个好，哪个不好，没具体研究，但分享这两个的理由是：对国内独有的身份证验证做开发，是一件有意思的事情。
 * [thephpleague/pipeline](https://github.com/thephpleague/pipeline) The pipeline pattern allows you to easily compose sequential stages by chaining stages. 源码分析可以看这篇文章：[推荐一个 PHP 管道插件 League\Pipeline](https://mp.weixin.qq.com/s/S02vFytG9fM98CoKTaH3HQ) [![GitHub stars](https://img.shields.io/github/stars/thephpleague/pipeline.svg?style=flat&label=Star)](https://github.com/thephpleague/pipeline/stargazers)
+* [irazasyed/telegram-bot-sdk](https://github.com/irazasyed/telegram-bot-sdk) 🤖 Telegram Bot API PHP SDK. Lets you build Telegram Bots easily! Supports Laravel out of the box. [https://telegram-bot-sdk.readme.io/docs](https://telegram-bot-sdk.readme.io/docs)，刚好最近在做一个发送 Ebook 到 Kindle 的 Telegram Bot 工具，推荐使用这个。[![GitHub stars](https://img.shields.io/github/stars/irazasyed/telegram-bot-sdk.svg?style=flat&label=Star)](https://github.com/irazasyed/telegram-bot-sdk/stargazers)
 
 
 ## 图书推荐
