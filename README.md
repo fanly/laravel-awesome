@@ -5,7 +5,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/fanly/laravel-awesome.svg?style=flat&label=Fork)](https://github.com/fanly/laravel-awesome/fork)
 [![GitHub watchers](https://img.shields.io/github/watchers/fanly/laravel-awesome.svg?style=flat&label=Watch)](https://github.com/fanly/laravel-awesome/watchers)
 
-**最后更新于20180818**
+**最后更新于20180829**
 
 * [核心概念](https://github.com/fanly/laravel-awesome/blob/master/README.md#核心概念)
 * [插件推荐](https://github.com/fanly/laravel-awesome/blob/master/README.md#插件推荐)
@@ -15,6 +15,8 @@
 * [最佳实践](https://github.com/fanly/laravel-awesome/blob/master/README.md#最佳实践)
 * [开源项目](https://github.com/fanly/laravel-awesome/blob/master/README.md#开源项目)
 * [社区](https://github.com/fanly/laravel-awesome/blob/master/README.md#社区)
+* [周边](https://github.com/fanly/laravel-awesome/blob/master/README.md#周边)
+
 
 ## 欢迎提交经典内容
 
@@ -103,6 +105,12 @@
 * [The League of Extraordinary Packages](http://thephpleague.com/) The League of Extraordinary Packages is a group of developers who have banded together to build solid, well tested PHP packages using modern coding standards. 高质量 packages 聚集地，强烈推荐大家看看 :star::star::star::star::star:
 * [Laravel News](https://laravel-news.com/) The official Laravel news source. :star::star::star::star:
 * [laracasts](https://laracasts.com/) The best PHP and Laravel screencasts on the web. 对于企业，推荐买一个账号供技术人员学习使用，确实不错。当然，个人买有点小贵。:star::star::star::star:
+
+## 周边
+
+> 我们除了要掌握核心技术外，对于周边的知识和工具，我们也要学习，所以也搜集了一些我经常使用和学习的高质量信息
+
+* [geeeeeeeeek/git-recipes](https://github.com/geeeeeeeeek/git-recipes) Git recipes in Chinese by Zhongyi Tong. 高质量的 Git 中文教程. [文档也可以看这里](https://github.com/geeeeeeeeek/git-recipes/wiki) [![GitHub stars](https://img.shields.io/github/stars/geeeeeeeeek/git-recipes.svg?style=flat&label=Star)](https://github.com/geeeeeeeeek/git-recipes/stargazers)
 
 ## 关于我
 
