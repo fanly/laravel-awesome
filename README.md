@@ -5,7 +5,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/fanly/laravel-awesome.svg?style=flat&label=Fork)](https://github.com/fanly/laravel-awesome/fork)
 [![GitHub watchers](https://img.shields.io/github/watchers/fanly/laravel-awesome.svg?style=flat&label=Watch)](https://github.com/fanly/laravel-awesome/watchers)
 
-**最后更新于20180829**
+**最后更新于20180901**
 
 * [核心概念](https://github.com/fanly/laravel-awesome/blob/master/README.md#核心概念)
 * [插件推荐](https://github.com/fanly/laravel-awesome/blob/master/README.md#插件推荐)
@@ -48,6 +48,7 @@
 * [ofcold/identity-card](https://github.com/ofcold/identity-card) A simple proof of identity card of the people's Republic of China. 其实这两个方法哪个好，哪个不好，没具体研究，但分享这两个的理由是：对国内独有的身份证验证做开发，是一件有意思的事情。
 * [thephpleague/pipeline](https://github.com/thephpleague/pipeline) The pipeline pattern allows you to easily compose sequential stages by chaining stages. 源码分析可以看这篇文章：[推荐一个 PHP 管道插件 League\Pipeline](https://mp.weixin.qq.com/s/S02vFytG9fM98CoKTaH3HQ) [![GitHub stars](https://img.shields.io/github/stars/thephpleague/pipeline.svg?style=flat&label=Star)](https://github.com/thephpleague/pipeline/stargazers)
 * [irazasyed/telegram-bot-sdk](https://github.com/irazasyed/telegram-bot-sdk) 🤖 Telegram Bot API PHP SDK. Lets you build Telegram Bots easily! Supports Laravel out of the box. [https://telegram-bot-sdk.readme.io/docs](https://telegram-bot-sdk.readme.io/docs)，刚好最近在做一个发送 Ebook 到 Kindle 的 Telegram Bot 工具，推荐使用这个。[![GitHub stars](https://img.shields.io/github/stars/irazasyed/telegram-bot-sdk.svg?style=flat&label=Star)](https://github.com/irazasyed/telegram-bot-sdk/stargazers)
+* [Maatwebsite/Laravel-Excel](https://github.com/Maatwebsite/Laravel-Excel) 🚀 Supercharged Excel exports in Laravel，要操作 Excel，推荐这个工具了。具体文档看这里 [ https://laravel-excel.maatwebsite.nl/ ]( https://laravel-excel.maatwebsite.nl/ )。[![GitHub stars](https://img.shields.io/github/stars/Maatwebsite/Laravel-Excel.svg?style=flat&label=Star)](https://github.com/Maatwebsite/Laravel-Excel/stargazers)
 
 
 ## 图书推荐
