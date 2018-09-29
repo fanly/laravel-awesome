@@ -77,6 +77,7 @@
 
 * [2017 版 Laravel 系列入门教程](https://github.com/johnlui/Learn-Laravel-5/) 关注 @johnlui 作者很久了，跟着他，学了不少东西，推荐初学者看看。:star::star::star::star:
 * [Building a Vue SPA with Laravel](https://laravel-news.com/using-vue-router-laravel) Laravel + vue 这是目前「全栈」的标配。:star::star::star::star:
+* [Laravel 深入浅出指南](https://github.com/xiaohuilam/laravel/wiki) Laravel 5.7 源代码解析，新手进阶指南。进阶版。
 
 ## 最佳实践
 
@@ -99,7 +100,7 @@
 * :100: [LaravelChina](https://laravel-china.org/)
 	 学习 Laravel，不知道这个网站，那就没法混了。:star::star::star::star::star:
 * [Laravel 学院](http://laravelacademy.org) 上面不仅有各版本文档，还有很多不错的文章，和开源项目值得学习
-      
+  ​    
 
     
 **国外：**
