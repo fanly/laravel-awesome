@@ -5,7 +5,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/fanly/laravel-awesome.svg?style=flat&label=Fork)](https://github.com/fanly/laravel-awesome/fork)
 [![GitHub watchers](https://img.shields.io/github/watchers/fanly/laravel-awesome.svg?style=flat&label=Watch)](https://github.com/fanly/laravel-awesome/watchers)
 
-**最后更新于20180910**
+**最后更新于20181007**
 
 * [核心概念](https://github.com/fanly/laravel-awesome/blob/master/README.md#核心概念)
 * [插件推荐](https://github.com/fanly/laravel-awesome/blob/master/README.md#插件推荐)
@@ -91,6 +91,7 @@
 * [jcc/blog](https://github.com/jcc/blog/) 🌟 这是一个由 Laravel 5.* 和 Vuejs 2.* 建立的开源博客系统。「PJ Blog is an open source blog built with Laravel and Vue.js.」 [![GitHub stars](https://img.shields.io/github/stars/jcc/blog.svg?style=flat&label=Star)](https://github.com/jcc/blog/stargazers)
 * [caoym/phpboot](https://github.com/caoym/phpboot) 是为快速开发 微服务 / RESTful API 设计的PHP 框架。它可以帮助开发者更聚焦在业务本身, 而将原来开发中不得不做, 但又重复枯燥的事情丢给框架, 比如编写接口文档、参数校验和远程调用代码等。本人也再考虑是否做一款 PHP 框架，这个值得使用和参考。[中文说明](http://phpboot.org/zh/latest/)。[![GitHub stars](https://img.shields.io/github/stars/caoym/phpboot.svg?style=flat&label=Star)](https://github.com/caoym/phpboot/stargazers)
 * [leocavalcante/siler](https://github.com/leocavalcante/siler) Siler is a PHP library powered with high-level abstractions to work with GraphQL. [使用文档可以看这里](https://siler.leocavalcante.com/) [![GitHub stars](https://img.shields.io/github/stars/leocavalcante/siler.svg?style=flat&label=Star)](https://github.com/leocavalcante/siler/stargazers)
+* [https://github.com/Qsnh/meedu](https://github.com/Qsnh/meedu) 基于Laravel开发的在线点播系统。 https://meedu.app [![GitHub stars](https://img.shields.io/github/stars/Qsnh/meedu.svg?style=flat&label=Star)](https://github.com/Qsnh/meedu/stargazers)
 
 
 ## 社区
