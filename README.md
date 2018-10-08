@@ -5,7 +5,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/fanly/laravel-awesome.svg?style=flat&label=Fork)](https://github.com/fanly/laravel-awesome/fork)
 [![GitHub watchers](https://img.shields.io/github/watchers/fanly/laravel-awesome.svg?style=flat&label=Watch)](https://github.com/fanly/laravel-awesome/watchers)
 
-**最后更新于20181007**
+**最后更新于20181008**
 
 * [核心概念](https://github.com/fanly/laravel-awesome/blob/master/README.md#核心概念)
 * [插件推荐](https://github.com/fanly/laravel-awesome/blob/master/README.md#插件推荐)
@@ -72,6 +72,7 @@
 * [A modern backup solution for Laravel apps](https://github.com/spatie/laravel-backup) This Laravel package creates a backup of your application. The backup is a zipfile that contains all files in the directories you specify along with a dump of your database. The backup can be stored on any of the filesystems you have configured in Laravel 5. [![GitHub stars](https://img.shields.io/github/stars/spatie/laravel-backup.svg?style=flat&label=Star)](https://github.com/spatie/laravel-backup/stargazers)
 * [getsentry/onpremise](https://github.com/getsentry/onpremise) Official bootstrap for running your own Sentry with Docker. 具体使用可以查看这篇文章 [利用 entry/onpremise 搭建一个 Sentry 异常汇总工具](https://mp.weixin.qq.com/s/wxVHXlloh8SSf5v8I7stJg) [![GitHub stars](https://img.shields.io/github/stars/getsentry/onpremise.svg?style=flat&label=Star)](https://github.com/getsentry/onpremise/stargazers)
 * [Neilpang/acme.sh](https://github.com/Neilpang/acme.sh) 使用了很多提供商的免费证书，也尝试使用其他工具一键生成，但感觉不如这个来的好用，所以推荐给大家。[![GitHub stars](https://img.shields.io/github/stars/Neilpang/acme.sh.svg?style=flat&label=Star)](https://github.com/Neilpang/acme.sh/stargazers)
+* [drone/drone](https://github.com/drone/drone). Drone is a Continuous Delivery platform built on Docker, written in Go [https://drone.io](https://drone.io)。和 `Jenkins` 相比，我更推荐小团队或者个人使用 `Drone`。[![GitHub stars](https://img.shields.io/github/stars/drone/drone.svg?style=flat&label=Star)](https://github.com/drone/drone/stargazers)
 
 ## 教程推荐
 
