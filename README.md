@@ -5,7 +5,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/fanly/laravel-awesome.svg?style=flat&label=Fork)](https://github.com/fanly/laravel-awesome/fork)
 [![GitHub watchers](https://img.shields.io/github/watchers/fanly/laravel-awesome.svg?style=flat&label=Watch)](https://github.com/fanly/laravel-awesome/watchers)
 
-**最后更新于20181019**
+**最后更新于20181022**
 > 主要推荐：[fatedier/frp](https://github.com/fatedier/frp)，一个可用于内网穿透的高性能的反向代理应用，支持 tcp, udp, http, https 协议。
 
 * [核心概念](https://github.com/fanly/laravel-awesome/blob/master/README.md#核心概念)
