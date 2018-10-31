@@ -5,7 +5,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/fanly/laravel-awesome.svg?style=flat&label=Fork)](https://github.com/fanly/laravel-awesome/fork)
 [![GitHub watchers](https://img.shields.io/github/watchers/fanly/laravel-awesome.svg?style=flat&label=Watch)](https://github.com/fanly/laravel-awesome/watchers)
 
-**最后更新于20181022**
+**最后更新于20181031**
 > 主要推荐：[fatedier/frp](https://github.com/fatedier/frp)，一个可用于内网穿透的高性能的反向代理应用，支持 tcp, udp, http, https 协议。
 
 * [核心概念](https://github.com/fanly/laravel-awesome/blob/master/README.md#核心概念)
@@ -113,6 +113,7 @@
 * [The League of Extraordinary Packages](http://thephpleague.com/) The League of Extraordinary Packages is a group of developers who have banded together to build solid, well tested PHP packages using modern coding standards. 高质量 packages 聚集地，强烈推荐大家看看 :star::star::star::star::star:
 * [Laravel News](https://laravel-news.com/) The official Laravel news source. :star::star::star::star:
 * [laracasts](https://laracasts.com/) The best PHP and Laravel screencasts on the web. 对于企业，推荐买一个账号供技术人员学习使用，确实不错。当然，个人买有点小贵。:star::star::star::star:
+* [laravel.io](https://laravel.io) 没事可以逛逛，里面有很多问题可以参与讨论讨论。当然还有其它板块值得一看。
 
 ## 周边
 
