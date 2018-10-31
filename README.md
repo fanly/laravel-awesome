@@ -75,6 +75,7 @@
 * [getsentry/onpremise](https://github.com/getsentry/onpremise) Official bootstrap for running your own Sentry with Docker. 具体使用可以查看这篇文章 [利用 entry/onpremise 搭建一个 Sentry 异常汇总工具](https://mp.weixin.qq.com/s/wxVHXlloh8SSf5v8I7stJg) [![GitHub stars](https://img.shields.io/github/stars/getsentry/onpremise.svg?style=flat&label=Star)](https://github.com/getsentry/onpremise/stargazers)
 * [Neilpang/acme.sh](https://github.com/Neilpang/acme.sh) 使用了很多提供商的免费证书，也尝试使用其他工具一键生成，但感觉不如这个来的好用，所以推荐给大家。[![GitHub stars](https://img.shields.io/github/stars/Neilpang/acme.sh.svg?style=flat&label=Star)](https://github.com/Neilpang/acme.sh/stargazers)
 * [drone/drone](https://github.com/drone/drone). Drone is a Continuous Delivery platform built on Docker, written in Go [https://drone.io](https://drone.io)。和 `Jenkins` 相比，我更推荐小团队或者个人使用 `Drone`。[![GitHub stars](https://img.shields.io/github/stars/drone/drone.svg?style=flat&label=Star)](https://github.com/drone/drone/stargazers)
+* [phpstan/phpstan](https://github.com/phpstan/phpstan). 接下来在自己的几个项目中可以尝试使用了，至少多一种渠道发现代码的bug，何乐而不为呢。[![GitHub stars](https://img.shields.io/github/stars/phpstan/phpstan.svg?style=flat&label=Star)](https://github.com/phpstan/phpstan/stargazers)
 
 ## 教程推荐
 
