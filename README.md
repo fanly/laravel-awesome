@@ -5,7 +5,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/fanly/laravel-awesome.svg?style=flat&label=Fork)](https://github.com/fanly/laravel-awesome/fork)
 [![GitHub watchers](https://img.shields.io/github/watchers/fanly/laravel-awesome.svg?style=flat&label=Watch)](https://github.com/fanly/laravel-awesome/watchers)
 
-**最后更新于20190911**
+**最后更新于20200728**
 > 主要推荐：[fatedier/frp](https://github.com/fatedier/frp)，一个可用于内网穿透的高性能的反向代理应用，支持 tcp, udp, http, https 协议。
 
 * [核心概念](https://github.com/fanly/laravel-awesome/blob/master/README.md#核心概念)
@@ -90,6 +90,7 @@
 
 ## 开源项目
 
+* :100: [livewire/livewire](https://github.com/livewire/livewire) Livewire is a full-stack framework for Laravel that makes building dynamic interfaces simple, without leaving the comfort of Laravel.[![GitHub stars](https://img.shields.io/github/stars/livewire/livewire.svg?style=flat&label=Star)](https://github.com/livewire/livewire/stargazers)
 * :100: [summerblue/laravel-shop](https://github.com/summerblue/laravel-shop) Laravel 电商实战教程的项目代码。Summer 推荐错不了。[![GitHub stars](https://img.shields.io/github/stars/summerblue/laravel-shop.svg?style=flat&label=Star)](https://github.com/summerblue/laravel-shop/stargazers)
 * :100: [laravel/horizon](https://github.com/laravel/horizon) Horizon is developed by the core developers of the Laravel framework and provides a robust queue monitoring solution for Laravel's Redis queue. Horizon allows you to easily monitor key metrics of your queue system such as job throughput, runtime, and job failures.  [![GitHub stars](https://img.shields.io/github/stars/laravel/horizon.svg?style=flat&label=Star)](https://github.com/laravel/horizon/stargazers)
 * [octobercms/october](http://octobercms.com/) Free, open-source, self-hosted CMS platform based on the Laravel PHP Framework. 值得一用，而且作者来头不小哦。:star::star::star::star::star:
