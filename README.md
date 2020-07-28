@@ -126,12 +126,8 @@
 
 ## 关于我
 
-- 加入「圈子」我们一起升级打怪
-
-<img src="http://ow20g4tgj.bkt.clouddn.com/2018-06-21-15295424612882.jpg" height="400">
-
-
 - 加我微信(**yemeishu**) or 如果觉得对你有用，不妨请我喝杯:coffee:~。
 
-<img src="http://ow20g4tgj.bkt.clouddn.com/2018-05-07-15256949976757.jpg" height="400"><img src="http://ow20g4tgj.bkt.clouddn.com/2018-05-07-15256953039020.jpg" height="400">
+<img src="https://image.coding01.cn/2020/07/28/15959454691814.jpg" height="400"><img src="https://image.coding01.cn/2020/07/28/15959455296711.jpg" height="400">
+
 
