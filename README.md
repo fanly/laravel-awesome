@@ -5,9 +5,9 @@
 [![GitHub forks](https://img.shields.io/github/forks/fanly/laravel-awesome.svg?style=flat&label=Fork)](https://github.com/fanly/laravel-awesome/fork)
 [![GitHub watchers](https://img.shields.io/github/watchers/fanly/laravel-awesome.svg?style=flat&label=Watch)](https://github.com/fanly/laravel-awesome/watchers)
 
-**最后更新于 20200825**
+**最后更新于 20210913**
 
-> 主要推荐：[fatedier/frp](https://github.com/fatedier/frp)，一个可用于内网穿透的高性能的反向代理应用，支持 tcp, udp, http, https 协议。
+> 主要推荐：[FREE E-book: 100 Laravel Quick Tips](https://laraveldaily.com/free-e-book-40-laravel-quick-tips-and-counting/)，FREE E-book: 100 Laravel Quick Tips，值得一看。
 
 - [核心概念](https://github.com/fanly/laravel-awesome/blob/master/README.md#核心概念)
 - [插件推荐](https://github.com/fanly/laravel-awesome/blob/master/README.md#插件推荐)
@@ -80,6 +80,7 @@
 - [2017 版 Laravel 系列入门教程](https://github.com/johnlui/Learn-Laravel-5/) 关注 @johnlui 作者很久了，跟着他，学了不少东西，推荐初学者看看。:star::star::star::star:
 - [Building a Vue SPA with Laravel](https://laravel-news.com/using-vue-router-laravel) Laravel + vue 这是目前「全栈」的标配。:star::star::star::star:
 - [Laravel 深入浅出指南](https://github.com/xiaohuilam/laravel/wiki) Laravel 5.7 源代码解析，新手进阶指南。进阶版。
+- [FREE E-book: 100 Laravel Quick Tips](https://laraveldaily.com/free-e-book-40-laravel-quick-tips-and-counting/) FREE E-book: 100 Laravel Quick Tips (and counting)，值得一看
 
 ## 最佳实践
 
