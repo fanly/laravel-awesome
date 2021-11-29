@@ -126,6 +126,11 @@
 
 ![](https://github.githubassets.com/images/modules/profile/badge--acv-64.png)
 
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/fanly/laravel-awesome.svg)](https://starchart.cc/fanly/laravel-awesome)
+
 ## 关于我
 
 - 加我微信(**yemeishu**) or 如果觉得对你有用，不妨请我喝杯:coffee:~。
