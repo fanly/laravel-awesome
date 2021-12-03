@@ -4,8 +4,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/fanly/laravel-awesome.svg?style=flat&label=Star)](https://github.com/fanly/laravel-awesome/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/fanly/laravel-awesome.svg?style=flat&label=Fork)](https://github.com/fanly/laravel-awesome/fork)
 [![GitHub watchers](https://img.shields.io/github/watchers/fanly/laravel-awesome.svg?style=flat&label=Watch)](https://github.com/fanly/laravel-awesome/watchers)
-
-**最后更新于 20210913**
+[![GitHub Update](https://img.shields.io/badge/update%20date-2021/12/04-green)](https://github.com/fanly/laravel-awesome)
 
 > 主要推荐：[FREE E-book: 100 Laravel Quick Tips](https://laraveldaily.com/free-e-book-40-laravel-quick-tips-and-counting/)，FREE E-book: 100 Laravel Quick Tips，值得一看。
 
@@ -59,6 +58,7 @@
 
 ## 工具推荐
 
+- :100: [laradock/Sail](https://laravel.com/docs/8.x/sail) **良心推荐** Docker 和 Laravel 完美结合，Laravel Sail is a light-weight command-line interface for interacting with Laravel's default Docker development environment. Sail provides a great starting point for building a Laravel application using PHP, MySQL, and Redis without requiring prior Docker experience. [![GitHub stars](https://img.shields.io/github/stars/laravel/sail.svg?style=flat&label=Star)](https://github.com/laravel/sail/stargazers)
 - :100: [laradock/laradock](https://github.com/laradock/laradock) 利用 Docker 搭建开发环境，已经成为开发者必备技能了，「laradock」是首选，所以 Laravel 开发者，不知道这个，好像说不过去了。[![GitHub stars](https://img.shields.io/github/stars/laradock/laradock.svg?style=flat&label=Star)](https://github.com/laradock/laradock/stargazers)
 - :100: [squizlabs/PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) 每个公司都会有一套大家遵循的代码编写规范标准，这时候再辅于工具，那就完美了，所以推荐这个工具，几个主流的编辑器都支持。 [![GitHub stars](https://img.shields.io/github/stars/squizlabs/PHP_CodeSniffer.svg?style=flat&label=Star)](https://github.com/squizlabs/PHP_CodeSniffer/stargazers)
 - :100: [fatedier/frp](https://github.com/fatedier/frp) A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. frp 是一个可用于内网穿透的高性能的反向代理应用，支持 tcp, udp, http, https 协议。使用过花生壳、ngrok 后，还是觉得这个好，对于需要内网联调微信开发功能，这个值得推荐使用。中文版使用说明：[看这里](https://github.com/fatedier/frp/blob/master/README_zh.md)。[![GitHub stars](https://img.shields.io/github/stars/fatedier/frp.svg?style=flat&label=Star)](https://github.com/fatedier/frp/stargazers)
@@ -125,7 +125,6 @@
 ## 关于本项目
 
 ![](https://github.githubassets.com/images/modules/profile/badge--acv-64.png)
-
 
 ## Stargazers over time
 
