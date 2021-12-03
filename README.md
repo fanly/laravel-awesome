@@ -4,7 +4,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/fanly/laravel-awesome.svg?style=flat&label=Star)](https://github.com/fanly/laravel-awesome/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/fanly/laravel-awesome.svg?style=flat&label=Fork)](https://github.com/fanly/laravel-awesome/fork)
 [![GitHub watchers](https://img.shields.io/github/watchers/fanly/laravel-awesome.svg?style=flat&label=Watch)](https://github.com/fanly/laravel-awesome/watchers)
-[![GitHub Update](https://img.shields.io/badge/update%20date-2021/12/04-green)](https://github.com/fanly/laravel-awesome)
+[![GitHub Last Updated](https://img.shields.io/badge/last%20update%20date-2021/12/04-green)](https://github.com/fanly/laravel-awesome)
 
 > 主要推荐：[FREE E-book: 100 Laravel Quick Tips](https://laraveldaily.com/free-e-book-40-laravel-quick-tips-and-counting/)，FREE E-book: 100 Laravel Quick Tips，值得一看。
 
