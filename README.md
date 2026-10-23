@@ -99,6 +99,7 @@
 - [caoym/phpboot](https://github.com/caoym/phpboot) 是为快速开发 微服务 / RESTful API 设计的 PHP 框架。它可以帮助开发者更聚焦在业务本身, 而将原来开发中不得不做, 但又重复枯燥的事情丢给框架, 比如编写接口文档、参数校验和远程调用代码等。本人也再考虑是否做一款 PHP 框架，这个值得使用和参考。[中文说明](http://phpboot.org/zh/latest/)。[![GitHub stars](https://img.shields.io/github/stars/caoym/phpboot.svg?style=flat&label=Star)](https://github.com/caoym/phpboot/stargazers)
 - [leocavalcante/siler](https://github.com/leocavalcante/siler) Siler is a PHP library powered with high-level abstractions to work with GraphQL. [使用文档可以看这里](https://siler.leocavalcante.com/) [![GitHub stars](https://img.shields.io/github/stars/leocavalcante/siler.svg?style=flat&label=Star)](https://github.com/leocavalcante/siler/stargazers)
 - [https://github.com/Qsnh/meedu](https://github.com/Qsnh/meedu) 基于 Laravel 开发的在线点播系统。 https://meedu.app [![GitHub stars](https://img.shields.io/github/stars/Qsnh/meedu.svg?style=flat&label=Star)](https://github.com/Qsnh/meedu/stargazers)
+- [jy7lsna/laravel-appointment-reminders](https://github.com/jy7lsna/laravel-appointment-reminders) 基于 Laravel 的预约预订系统，包含确认邮件、日历邀请和自动提醒邮件，通过 Mailtrap 邮件 API 发送。 [![GitHub stars](https://img.shields.io/github/stars/jy7lsna/laravel-appointment-reminders.svg?style=flat&label=Star)](https://github.com/jy7lsna/laravel-appointment-reminders/stargazers)
 
 ## 社区
 
